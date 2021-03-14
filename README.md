@@ -3,6 +3,6 @@ Automation for twitter stuff
 
 ### Todo List
 - [x] Init Project python venv
-- [ ] Set and Read json user data
-- [ ] Automate Login
-- [ ] Automate  
+- [x] Set and Read json user data
+- [x] Automate Login
+- [ ] Automate Something cool
