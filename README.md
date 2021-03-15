@@ -5,4 +5,5 @@ Automation for twitter stuff
 - [x] Init Project python venv
 - [x] Set and Read json user data
 - [x] Automate Login
-- [ ] Automate Something cool
+- [x] Automate Something cool
+- [x] Publish Tweet after login
